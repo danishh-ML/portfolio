@@ -1,0 +1,32 @@
+export const education = [
+  {
+    id: 'edu-lpu',
+    institution: 'Lovely Professional University',
+    degree: 'Bachelor of Technology',
+    field: 'Computer Science and Engineering — AI/ML',
+    years: '2025 – 2029',
+    score: 'CGPA: 7.96',
+    location: 'Punjab, India',
+    current: true,
+  },
+  {
+    id: 'edu-12th',
+    institution: 'Sher Shah College, Sasaram, Bihar',
+    degree: 'Intermediate / Class 12',
+    field: 'PCM',
+    years: '2022 – 2024',
+    score: 'Percentage: 68%',
+    location: 'Sasaram, Bihar',
+    current: false,
+  },
+  {
+    id: 'edu-10th',
+    institution: 'Buddha Mission School, Sasaram, Bihar',
+    degree: 'Matriculation / Class 10',
+    field: null,
+    years: '2021 – 2022',
+    score: 'Percentage: 81.2%',
+    location: 'Sasaram, Bihar',
+    current: false,
+  },
+];
