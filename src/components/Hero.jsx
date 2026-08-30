@@ -172,7 +172,8 @@ export default function Hero() {
           </button>
 
           <a
-            href={personalInfo.resumePath}
+            href={`${import.meta.env.BASE_URL}resume.pdf`}
+
             download
             style={{
               display: 'flex', alignItems: 'center', gap: '10px',
