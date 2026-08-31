@@ -17,7 +17,7 @@ export const projects = [
       'Calculate and display total number of trees planted',
       'Database structure for plantation records',
     ],
-    github: 'https://danishh-ml.github.io/Tree-plantation-tracker/L',
+    github: 'https://danishh-ml.github.io/Tree-plantation-tracker/',
     liveDemo: null,
     color: '#22c55e',
   },
