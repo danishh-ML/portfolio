@@ -63,7 +63,7 @@ export const certifications = [
     name: "Introduction To Artificial Intelligence",
     organization: "Infosys Springboard",
     date: "March 2026",
-    link: "hhttps://drive.google.com/file/d/1VAM_50M4WuUKiPQJ8t0OHxKaHQv95oBw/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1VAM_50M4WuUKiPQJ8t0OHxKaHQv95oBw/view?usp=sharing",
   },
 
   {
