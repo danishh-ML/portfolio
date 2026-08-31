@@ -51,10 +51,26 @@ My long-term goal is to become an AI Engineer and build intelligent, useful, and
 
 export const certifications = [
   {
-    id: 'cert-python',
-    name: 'Introduction to Python',
-    organization: 'Sailor Academy',
-    date: 'March 2026',
-    icon: 'Award',
+    id: 1,
+    name: "Introduction to Python",
+    organization: "Sailor Academy",
+    date: "January 2026",
+    link: "https://drive.google.com/file/d/1n6MI3Gw2bsuKelN77hplefiNKVU7Lkdl/view?usp=sharing",
+  },
+
+  {
+    id: 2,
+    name: "Introduction To Artificial Intelligence",
+    organization: "Infosys Springboard",
+    date: "March 2026",
+    link: "hhttps://drive.google.com/file/d/1VAM_50M4WuUKiPQJ8t0OHxKaHQv95oBw/view?usp=sharing",
+  },
+
+  {
+    id: 3,
+    name: "Effective Time Management",
+    organization: "Tech Veda",
+    date: "October 2025",
+    link: "https://drive.google.com/file/d/1C0na6nsOXuGRwKRhlCQMhw5FSPbQPp6y/view?usp=sharing",
   },
 ];
